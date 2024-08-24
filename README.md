@@ -1,2 +1,2 @@
-# mrmrsgascon-github.io
+# mrmrsgascon.github.io
 Wedding Gallery
